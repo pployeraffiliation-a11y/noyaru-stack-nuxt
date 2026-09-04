@@ -1,6 +1,6 @@
 <script setup>
-const title = 'A propos du site de test Nuxt';
-const description = "Page temoin du site fixture Nuxt : elle est saine et doit rester rigoureusement intacte apres la correction.";
+const title = 'À propos : notre site de démo Nuxt pour vos tests et projets';
+const description = "Site de test Nuxt : explorez cette page temoin saine et decouvrez un exemple concret de fixture Nuxt fonctionnelle. Consultez la demo des maintenant.";
 const canonical = 'https://noyaru-stack-nuxt.netlify.app/a-propos/';
 
 // Nuxt idiom: head tags are declared with useHead(), never as raw HTML in the template.
