@@ -21,7 +21,7 @@ useHead({
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/schema-invalid/' }
     ],
     script: [
-      { type: 'application/ld+json', innerHTML: '{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Application de test","offers":{"@type":"Offer","price":"0","priceCurrency":"EUR"}}' }
+      { type: 'application/ld+json', innerHTML: '{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Application de test","offers":{"@type":"Offer","price":0,"priceCurrency":"EUR"}}' }
     ],
 });
 </script>
