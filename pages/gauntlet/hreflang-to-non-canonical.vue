@@ -10,7 +10,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru - Hreflang à non-canonical' },
       { property: 'og:description', content: 'Page de test du parcours d\'obstacles Noyaru, illustrant un cas spécifique pour le SEO.' },
-      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-to-non-canonical/' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru - Hreflang à non-canonical' },
