@@ -1,6 +1,7 @@
 <script setup>
 // FAMILLE VISEE : missing_title
     title: 'Parcours d obstacles - Anomalie de titre manquant', // aucun titre declare.
+      { property: 'og:title', content: 'Parcours d obstacles - Anomalie de titre manquant' },
 useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
