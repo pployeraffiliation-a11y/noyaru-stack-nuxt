@@ -2,6 +2,7 @@
 // FAMILLE VISEE : missing_title
 // aucun titre declare.
 useHead({
+    title: 'Parcours d obstacles - Gauntlet',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
