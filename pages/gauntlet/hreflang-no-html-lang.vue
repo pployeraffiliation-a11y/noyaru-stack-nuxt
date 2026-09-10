@@ -2,18 +2,18 @@
 // FAMILLE VISEE : hreflang_defined_but_html_lang_missing
 // hreflang declare mais <html> sans attribut lang.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru - Page de test 1',
     htmlAttrs: { lang: null },  // langue retiree : l'anomalie visee
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et immersive.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Parcours d\'obstacles Noyaru - Page de test 1' },
       { property: 'og:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et immersive.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-no-html-lang/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru - Page de test 1' },
       { name: 'twitter:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et immersive.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
