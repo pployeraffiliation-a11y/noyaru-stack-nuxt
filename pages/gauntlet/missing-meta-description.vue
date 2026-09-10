@@ -7,6 +7,7 @@ useHead({
     meta: [
       { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.' },
       { name: 'viewport', content: 'width=device-width' },
+      { property: 'og:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' },
