@@ -3,6 +3,8 @@
 // aucune meta description sur une page indexable.
 useHead({
     title: 'Page de test du parcours d\'obstacles Noyaru',
+    meta: [
+      { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, un défi unique en son genre.' },
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
