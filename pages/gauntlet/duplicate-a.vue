@@ -2,18 +2,18 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-b : meme titre ET meme description.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Test de parcours d\'obstacles - Page A',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test pour démontrer une anomalie de meta description.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { property: 'og:title', content: 'Test de parcours d'obstacles - Page A' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/duplicate-a/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { name: 'twitter:title', content: 'Test de parcours d'obstacles - Page A' },
       { name: 'twitter:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
