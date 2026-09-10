@@ -2,18 +2,18 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Page de test du parcours d\'obstacles Noyaru - Duplicate B',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page du parcours d obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { property: 'og:title', content: 'Page de test du parcours d'obstacles Noyaru - Duplicate B' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/duplicate-b/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { name: 'twitter:title', content: 'Page de test du parcours d'obstacles Noyaru - Duplicate B' },
       { name: 'twitter:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
