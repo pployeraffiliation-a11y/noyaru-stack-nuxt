@@ -6,7 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Une meta description volontairement tres longue, ecrite pour depasser le plafond de cent soixante caracteres retenu par le crawler, afin de declencher la famille des descriptions trop longues sur une page non indexable.' },
+      { name: 'description', content: 'Une meta description trop longue pour déclencher la famille des descriptions sur une page non indexable. Noyaru Stack Nuxt, 2023, crawler.' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond' },
