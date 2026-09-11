@@ -10,7 +10,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Test hreflang vers page non-canonique | Noyaru' },
       { property: 'og:description', content: 'Page de test hreflang vers non-canonical : le lien alternate hreflang pointe vers une page dont l URL canonique est differente, afin de declencher cette anomalie precise.' },
-      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-to-non-canonical/' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Test hreflang vers page non-canonique | Noyaru' },
