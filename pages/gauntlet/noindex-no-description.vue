@@ -5,6 +5,7 @@ useHead({
     title: 'Page de test du parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
+      { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru servant à valider la détection des anomalies SEO, ici l\'absence de meta description sur une page noindex.' },
       { name: 'viewport', content: 'width=device-width' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
