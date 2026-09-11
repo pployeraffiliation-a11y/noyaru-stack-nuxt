@@ -13,6 +13,7 @@ useHead({
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
