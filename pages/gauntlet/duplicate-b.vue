@@ -2,7 +2,7 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Page B du parcours d obstacles Noyaru : test de doublons',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
