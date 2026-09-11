@@ -2,7 +2,7 @@
 // FAMILLE VISEE : hreflang_to_non_canonical
 // hreflang pointant vers une page dont le canonical est ailleurs.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru - Hreflang à non-canonical',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
