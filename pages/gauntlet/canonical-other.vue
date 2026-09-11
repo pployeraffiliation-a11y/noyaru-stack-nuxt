@@ -18,7 +18,7 @@ useHead({
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
-      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' }
+      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-other/' }
     ],
 });
 </script>
