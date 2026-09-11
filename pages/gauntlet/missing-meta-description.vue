@@ -6,6 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
+      { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru, concue pour provoquer une anomalie SEO unique et valider la detection du crawler sur le site.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' },
