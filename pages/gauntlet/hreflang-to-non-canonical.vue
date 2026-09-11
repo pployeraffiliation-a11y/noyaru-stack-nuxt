@@ -18,6 +18,7 @@ useHead({
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
+      { rel: 'alternate', hreflang: 'x-default', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-to-non-canonical/' },
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-to-non-canonical/' },
       { rel: 'alternate', hreflang: 'fr', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-to-non-canonical/' },
       { rel: 'alternate', hreflang: 'en', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' }
