@@ -6,7 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
+      { name: 'description', content: 'Page A du parcours d obstacles : premiere des deux pages jumelles, decrite ici de maniere unique pour ecarter tout doublon de meta description.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
