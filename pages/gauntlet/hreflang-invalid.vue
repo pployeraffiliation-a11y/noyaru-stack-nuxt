@@ -19,7 +19,7 @@ useHead({
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-invalid/' },
-      { rel: 'alternate', hreflang: 'fr_FR', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-invalid/' }
+      { rel: 'alternate', hreflang: 'fr', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-invalid/' }
     ],
 });
 </script>
