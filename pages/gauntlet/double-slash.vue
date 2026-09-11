@@ -2,7 +2,7 @@
 // FAMILLE VISEE : double_slash_in_url
 // lien interne avec une double barre.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Test double slash dans une URL interne — Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
