@@ -5,6 +5,7 @@ useHead({
     title: 'Page de test du parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
+      { property: 'og:description', content: 'Page de test du parcours d\'obstacles Noyaru, conçue pour provoquer une anomalie SEO unique.' },
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru, concue pour provoquer une anomalie SEO unique et valider la detection du crawler sur le site.' },
       { property: 'og:type', content: 'article' },
