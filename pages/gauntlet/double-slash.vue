@@ -29,5 +29,6 @@ useHead({
     <p>Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
     <p><a href="/">Retour a l accueil</a></p>
     <p><a href="//noyaru-stack-nuxt.netlify.app//a-propos">A propos</a></p>
+    <img src="https://noyaru-stack-nuxt.netlify.app/og.png" alt="Image de l'aperçu du parcours d'obstacles Noyaru">
   </main>
 </template>
