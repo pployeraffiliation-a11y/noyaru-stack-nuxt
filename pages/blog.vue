@@ -27,5 +27,6 @@ useHead({
   <main>
     <h1>{{ title }}</h1>
     <p>Articles.</p>
+    <img src="https://noyaru-stack-nuxt.netlify.app/og.png" alt="Image de prévisualisation du blog" />
   </main>
 </template>
