@@ -2,18 +2,18 @@
 // FAMILLE VISEE : hreflang_annotation_invalid
 // code de langue mal forme (soulignement au lieu du tiret).
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru - Page de test unique',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test pour le parcours d\'obstacles Noyaru, illustrant une anomalie spécifique.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Parcours d\'obstacles Noyaru - Page de test unique' },
       { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-invalid/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru - Page de test unique' },
       { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
