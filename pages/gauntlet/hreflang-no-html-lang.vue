@@ -3,7 +3,7 @@
 // hreflang declare mais <html> sans attribut lang.
 useHead({
     title: 'Parcours d\'obstacles Noyaru - Page de test unique',
-    htmlAttrs: { lang: null },  // langue retiree : l'anomalie visee
+    htmlAttrs: { lang: 'fr' },  // langue retiree : l'anomalie visee
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et immersive.' },
