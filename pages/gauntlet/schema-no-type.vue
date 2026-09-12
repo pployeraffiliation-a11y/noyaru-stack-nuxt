@@ -21,7 +21,7 @@ useHead({
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/schema-no-type/' }
     ],
     script: [
-      { type: 'application/ld+json', innerHTML: '{"@context":"https://schema.org","name":"Objet sans type declare"}' }
+      { type: 'application/ld+json', innerHTML: '{"@context":"https://schema.org","@type":"Thing","name":"Objet sans type declare"}' }
     ],
 });
 </script>
