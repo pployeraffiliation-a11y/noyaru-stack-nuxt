@@ -13,10 +13,14 @@ useHead({
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/twitter-missing/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
     ],
     link: [
-      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/twitter-missing/' }
+      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/twitter-missing/' },
+      { name: 'twitter:card', content: 'summary_large_image' },
+      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
     ],
 });
 </script>
