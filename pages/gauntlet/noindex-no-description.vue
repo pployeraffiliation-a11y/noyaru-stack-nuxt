@@ -5,6 +5,7 @@ useHead({
     title: 'Page de test du parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
+      { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.' },
       { name: 'viewport', content: 'width=device-width' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
