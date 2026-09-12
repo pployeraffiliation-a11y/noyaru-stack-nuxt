@@ -2,6 +2,7 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-a.
 useHead({
+    link: [{ rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }],
     title: 'Deux pages jumelles sans canonical declare',
     htmlAttrs: { lang: 'fr' },
     meta: [
