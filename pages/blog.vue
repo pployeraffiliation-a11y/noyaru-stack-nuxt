@@ -17,7 +17,7 @@ useHead({
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: title },
     { name: 'twitter:description', content: description },
-    { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+    { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png', alt: 'Open Graph Image' },
   ],
   link: [{ rel: 'canonical', href: canonical }],
 });
