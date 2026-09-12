@@ -5,6 +5,7 @@ useHead({
     title: 'Page de test du parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
+      { property: 'og:description', content: 'Cette page appartient au parcours d\'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.' },
       { name: 'viewport', content: 'width=device-width' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
