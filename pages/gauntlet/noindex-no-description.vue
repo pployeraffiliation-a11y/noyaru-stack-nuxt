@@ -6,6 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et stimulante.' },
+      { property: 'og:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et stimulante.' },
       { name: 'viewport', content: 'width=device-width' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
