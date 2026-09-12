@@ -11,11 +11,11 @@ useHead({
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' },
-      { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png', alt: 'Image de la page de test du parcours d\'obstacles Noyaru' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png', alt: 'Image de la page de test du parcours d\'obstacles Noyaru' }
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-http/' }
