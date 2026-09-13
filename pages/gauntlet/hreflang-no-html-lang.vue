@@ -3,7 +3,7 @@
 // hreflang declare mais <html> sans attribut lang.
 useHead({
     title: 'Test hreflang sans attribut lang sur html - Noyaru',
-    htmlAttrs: { lang: null },  // langue retiree : l'anomalie visee
+    htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test hreflang sans attribut lang sur <html> : les alternates sont declares mais la langue du document manque, pour isoler cette anomalie precise.' },
