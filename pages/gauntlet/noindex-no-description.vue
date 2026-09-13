@@ -9,6 +9,7 @@ useHead({
       { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru servant à provoquer une anomalie unique. Découvrez cette fixture de démonstration et revenez à l\'accueil.' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
+      { property: 'og:description', content: 'Page de test du parcours d\'obstacles Noyaru servant à provoquer une anomalie unique. Découvrez cette fixture de démonstration et revenez à l\'accueil.' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/noindex-no-description/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
