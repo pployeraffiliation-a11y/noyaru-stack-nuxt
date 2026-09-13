@@ -2,18 +2,18 @@
 // FAMILLE VISEE : hreflang_annotation_invalid
 // code de langue mal forme (soulignement au lieu du tiret).
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Test hreflang invalide (code de langue mal forme) - Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Test hreflang-invalid du parcours Noyaru : un code de langue mal forme (soulignement au lieu du tiret) declenche la detection des annotations hreflang invalides.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Test hreflang invalide (code de langue mal forme) - Noyaru' },
       { property: 'og:description', content: 'Test hreflang-invalid du parcours Noyaru : un code de langue mal forme (soulignement au lieu du tiret) declenche la detection des annotations hreflang invalides.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-invalid/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Test hreflang invalide (code de langue mal forme) - Noyaru' },
       { name: 'twitter:description', content: 'Test hreflang-invalid du parcours Noyaru : un code de langue mal forme (soulignement au lieu du tiret) declenche la detection des annotations hreflang invalides.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
