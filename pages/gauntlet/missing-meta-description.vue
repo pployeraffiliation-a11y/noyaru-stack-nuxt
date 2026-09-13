@@ -14,6 +14,7 @@ useHead({
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:description', content: 'Page de test du parcours d\'obstacles Noyaru : elle sert a provoquer une anomalie SEO precise et une seule pour valider le crawler.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
