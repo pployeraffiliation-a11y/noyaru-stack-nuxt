@@ -8,6 +8,7 @@ useHead({
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru : elle sert a provoquer une anomalie SEO precise et une seule pour valider le crawler.' },
       { property: 'og:type', content: 'article' },
+      { property: 'og:description', content: 'Page de test du parcours d\'obstacles Noyaru : elle sert a provoquer une anomalie SEO precise et une seule pour valider le crawler.' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
