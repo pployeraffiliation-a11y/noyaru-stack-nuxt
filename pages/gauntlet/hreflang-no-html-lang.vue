@@ -2,18 +2,18 @@
 // FAMILLE VISEE : hreflang_defined_but_html_lang_missing
 // hreflang declare mais <html> sans attribut lang.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Test hreflang sans attribut lang sur html - Noyaru',
     htmlAttrs: { lang: null },  // langue retiree : l'anomalie visee
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page de test hreflang sans attribut lang sur <html> : les alternates sont declares mais la langue du document manque, pour isoler cette anomalie precise.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Test hreflang sans attribut lang sur html - Noyaru' },
       { property: 'og:description', content: 'Page de test hreflang sans attribut lang sur <html> : les alternates sont declares mais la langue du document manque, pour isoler cette anomalie precise.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/hreflang-no-html-lang/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Test hreflang sans attribut lang sur html - Noyaru' },
       { name: 'twitter:description', content: 'Page de test hreflang sans attribut lang sur <html> : les alternates sont declares mais la langue du document manque, pour isoler cette anomalie precise.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
