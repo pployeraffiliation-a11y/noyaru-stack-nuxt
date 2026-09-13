@@ -6,6 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
+      { name: 'description', content: 'Page de test du parcours d\'obstacles Noyaru servant à provoquer une anomalie unique. Découvrez cette fixture de démonstration et revenez à l\'accueil.' },
       { name: 'robots', content: 'noindex, follow' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
