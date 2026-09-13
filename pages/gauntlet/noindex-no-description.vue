@@ -15,6 +15,7 @@ useHead({
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:description', content: 'Page de test du parcours d\'obstacles Noyaru servant à provoquer une anomalie unique. Découvrez cette fixture de démonstration et revenez à l\'accueil.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
