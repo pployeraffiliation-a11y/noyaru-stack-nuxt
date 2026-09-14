@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noyaru-stack-nuxt.netlify.app/sitemap.xml
