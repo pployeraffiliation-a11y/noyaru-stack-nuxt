@@ -2,7 +2,7 @@
 // FAMILLE VISEE : hreflang_defined_but_html_lang_missing
 // hreflang declare mais <html> sans attribut lang.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Hreflang sans attribut HTML lang dans le parcours Noyaru',
     htmlAttrs: { lang: null },  // langue retiree : l'anomalie visee
     meta: [
       { name: 'viewport', content: 'width=device-width' },
