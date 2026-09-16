@@ -2,7 +2,7 @@
 // FAMILLE VISEE : hreflang_annotation_invalid
 // code de langue mal forme (soulignement au lieu du tiret).
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Hreflang Invalid - Parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
