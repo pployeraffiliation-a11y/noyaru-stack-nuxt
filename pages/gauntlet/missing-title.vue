@@ -1,6 +1,6 @@
 <script setup>
 // FAMILLE VISEE : missing_title
-// aucun titre declare.
+    title: 'Parcours d\'obstacles : missing title',
 useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
