@@ -2,7 +2,7 @@
 // FAMILLE VISEE : title_too_long_not_indexable + meta_description_too_long_not_indexable
 // page noindex portant un titre et une description hors plafond.
 useHead({
-    title: 'Un titre volontairement beaucoup trop long pour la fenetre visee par le correcteur, ecrit pour depasser nettement le plafond',
+    title: 'Titre trop long pour la fenêtre visée par le correcteur en 2023',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
