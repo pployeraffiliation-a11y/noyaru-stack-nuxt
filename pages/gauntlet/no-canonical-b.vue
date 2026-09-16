@@ -3,6 +3,9 @@
 // jumelle de no-canonical-a.
 useHead({
     title: 'Deux pages jumelles sans canonical declare',
+    link: [
+      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }
+    ],
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
