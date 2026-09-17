@@ -6,7 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
+      { name: 'description', content: 'Cette page illustre un cas de duplication dans le parcours d\'obstacles, afin de tester les anomalies SEO.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
