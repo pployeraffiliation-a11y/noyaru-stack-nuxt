@@ -13,11 +13,11 @@ useHead({
     { property: 'og:title', content: title },
     { property: 'og:description', content: description },
     { property: 'og:url', content: canonical },
-    { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+    { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png', alt: 'Image de prévisualisation du blog' },
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: title },
     { name: 'twitter:description', content: description },
-    { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+    { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png', alt: 'Image de prévisualisation du blog' },
   ],
   link: [{ rel: 'canonical', href: canonical }],
 });
