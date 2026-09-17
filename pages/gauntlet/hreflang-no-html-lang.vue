@@ -3,7 +3,7 @@
 // hreflang declare mais <html> sans attribut lang.
 useHead({
     title: 'Hreflang No HTML Lang - Parcours d\'obstacles Noyaru',
-    htmlAttrs: { lang: 'fr' },  // langue retiree : l'anomalie visee
+    htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Cette page traite des erreurs hreflang et de leur impact sur le SEO, en se concentrant sur un cas spécifique.' },
