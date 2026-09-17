@@ -28,5 +28,6 @@ useHead({
     <h1>Parcours d'obstacles : canonical http</h1>
     <p>Cette page du parcours traite le cas « canonical http ». Cette page appartient au parcours d'obstacles de la fixture. Elle sert a provoquer UNE anomalie et une seule.</p>
     <p><a href="/">Retour a l accueil</a></p>
+    <img src="https://noyaru-stack-nuxt.netlify.app/og.png" alt="Image de la page de test du parcours d'obstacles Noyaru">
   </main>
 </template>
