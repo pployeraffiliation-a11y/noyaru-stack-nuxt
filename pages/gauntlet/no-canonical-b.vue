@@ -2,6 +2,7 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-a.
 useHead({
+    link: [{ rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }],
     title: 'Deux pages jumelles sans canonical declare',
     htmlAttrs: { lang: 'fr' },
     meta: [
@@ -10,7 +11,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages jumelles sans canonical declare' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
-      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-b/' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Deux pages jumelles sans canonical declare' },
