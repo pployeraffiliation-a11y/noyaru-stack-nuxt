@@ -10,6 +10,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' },
+      { property: 'og:description', content: 'Découvrez le parcours d\'obstacles Noyaru, une expérience unique et captivante.' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
