@@ -2,18 +2,18 @@
 // FAMILLE VISEE : double_slash_in_url
 // lien interne avec une double barre.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Double Slash dans l\'URL - Parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Découvrez le parcours d\'obstacles Noyaru et ses spécificités, en particulier le cas du double slash dans l\'URL.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Double Slash dans l\'URL - Parcours d\'obstacles Noyaru' },
       { property: 'og:description', content: 'Découvrez le parcours d\'obstacles Noyaru et ses spécificités, en particulier le cas du double slash dans l\'URL.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/double-slash/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Double Slash dans l\'URL - Parcours d\'obstacles Noyaru' },
       { name: 'twitter:description', content: 'Découvrez le parcours d\'obstacles Noyaru et ses spécificités, en particulier le cas du double slash dans l\'URL.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
