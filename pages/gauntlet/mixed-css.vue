@@ -19,7 +19,7 @@ useHead({
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/mixed-css/' },
-      { rel: 'stylesheet', href: 'http://noyaru-stack-nuxt.netlify.app/style.css' }
+      { rel: 'stylesheet', href: 'https://noyaru-stack-nuxt.netlify.app/style.css' }
     ],
 });
 </script>
