@@ -18,6 +18,7 @@ useHead({
   link: [
     { rel: "canonical", href: "https://noyaru-stack-nuxt.netlify.app/gauntlet/qa-reciprocal-en/" },
     { rel: "alternate", hreflang: "en", href: "https://noyaru-stack-nuxt.netlify.app/gauntlet/qa-reciprocal-en/" },
+    { rel: "alternate", hreflang: "fr", href: "https://noyaru-stack-nuxt.netlify.app/gauntlet/qa-reciprocal-fr/" },
     { rel: "alternate", hreflang: "de", href: "https://noyaru-stack-nuxt.netlify.app/gauntlet/qa-reciprocal-de/" },
     { rel: "alternate", hreflang: "x-default", href: "https://noyaru-stack-nuxt.netlify.app/gauntlet/qa-reciprocal-fr/" }
   ]
