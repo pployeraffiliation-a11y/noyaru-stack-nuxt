@@ -2,7 +2,7 @@
 // FAMILLE VISEE : css_redirects + page_has_redirected_css
 // feuille de style chargee depuis une URL qui redirige.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — feuille de style redirigée',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
