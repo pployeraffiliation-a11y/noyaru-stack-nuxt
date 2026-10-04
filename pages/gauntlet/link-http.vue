@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'description', content: 'Page du parcours d\'obstacles Noyaru dédiée aux liens internes en HTTP : un seul défaut ciblé pour déclencher uniquement la famille https_page_has_internal_links_to_http.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours d\'obstacles Noyaru — liens internes en HTTP' },
-      { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { property: 'og:description', content: 'Page du parcours d\'obstacles Noyaru dédiée aux liens internes en HTTP : un seul défaut ciblé pour déclencher uniquement la famille https_page_has_internal_links_to_http.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/link-http/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru — liens internes en HTTP' },
-      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'twitter:description', content: 'Page du parcours d\'obstacles Noyaru dédiée aux liens internes en HTTP : un seul défaut ciblé pour déclencher uniquement la famille https_page_has_internal_links_to_http.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
