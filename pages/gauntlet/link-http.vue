@@ -2,7 +2,7 @@
 // FAMILLE VISEE : https_page_has_internal_links_to_http
 // lien interne ecrit en http.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — liens internes en HTTP',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
