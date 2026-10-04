@@ -2,7 +2,7 @@
 // FAMILLE VISEE : multiple_h1
 // deux <h1> sur la meme page.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — deux balises H1 sur la page',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
