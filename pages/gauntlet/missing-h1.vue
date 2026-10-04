@@ -2,7 +2,7 @@
 // FAMILLE VISEE : missing_h1
 // aucun <h1> dans le corps.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — page sans balise H1',  
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
