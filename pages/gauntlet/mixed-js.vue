@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'description', content: 'Page du parcours d\'obstacles Noyaru : cas « mixed-js », un script charge en HTTP sur une page HTTPS. Toutes les autres balises sont conformes pour isoler cette anomalie.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours d\'obstacles Noyaru — script mixte HTTP et HTTPS' },
-      { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { property: 'og:description', content: 'Page du parcours d\'obstacles Noyaru : cas « mixed-js », un script charge en HTTP sur une page HTTPS. Toutes les autres balises sont conformes pour isoler cette anomalie.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/mixed-js/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru — script mixte HTTP et HTTPS' },
-      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'twitter:description', content: 'Page du parcours d\'obstacles Noyaru : cas « mixed-js », un script charge en HTTP sur une page HTTPS. Toutes les autres balises sont conformes pour isoler cette anomalie.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
