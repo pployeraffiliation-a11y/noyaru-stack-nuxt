@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
+      { name: 'description', content: 'Variante B du test de doublons Noyaru : cette page partageait sa description avec sa jumelle pour declencher la detection des meta descriptions dupliquees.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours obstacles Noyaru — variante B avec titre dupliqué' },
-      { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
+      { property: 'og:description', content: 'Variante B du test de doublons Noyaru : cette page partageait sa description avec sa jumelle pour declencher la detection des meta descriptions dupliquees.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/duplicate-b/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours obstacles Noyaru — variante B avec titre dupliqué' },
-      { name: 'twitter:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
+      { name: 'twitter:description', content: 'Variante B du test de doublons Noyaru : cette page partageait sa description avec sa jumelle pour declencher la detection des meta descriptions dupliquees.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
