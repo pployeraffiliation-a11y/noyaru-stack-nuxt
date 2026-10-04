@@ -2,7 +2,7 @@
 // FAMILLE VISEE : https_page_links_to_http_css
 // feuille de style chargee en http.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — CSS mixte HTTP/HTTPS',  
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
