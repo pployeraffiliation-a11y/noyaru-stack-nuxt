@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'description', content: 'Page de test Noyaru dédiée au cas « H1 absent » : le corps ne contient aucun titre h1, provoquant uniquement cette anomalie lors du crawl de validation.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours d\'obstacles Noyaru — cas H1 absent à corriger' },
-      { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { property: 'og:description', content: 'Page de test Noyaru dédiée au cas « H1 absent » : le corps ne contient aucun titre h1, provoquant uniquement cette anomalie lors du crawl de validation.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-h1/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru — cas H1 absent à corriger' },
-      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'twitter:description', content: 'Page de test Noyaru dédiée au cas « H1 absent » : le corps ne contient aucun titre h1, provoquant uniquement cette anomalie lors du crawl de validation.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
