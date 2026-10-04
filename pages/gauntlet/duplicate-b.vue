@@ -2,18 +2,18 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Parcours obstacles Noyaru — variante B avec titre dupliqué',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { property: 'og:title', content: 'Parcours obstacles Noyaru — variante B avec titre dupliqué' },
       { property: 'og:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/duplicate-b/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { name: 'twitter:title', content: 'Parcours obstacles Noyaru — variante B avec titre dupliqué' },
       { name: 'twitter:description', content: 'Deux pages qui portent exactement la meme meta description, afin de declencher la famille des doublons.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
