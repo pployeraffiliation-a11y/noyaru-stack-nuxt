@@ -2,7 +2,7 @@
 // FAMILLE VISEE : https_page_links_to_http_image + https_http_mixed_content
 // image chargee en http sur une page https.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Parcours d\'obstacles Noyaru — mixed image HTTP/HTTPS',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
