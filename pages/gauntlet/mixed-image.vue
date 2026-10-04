@@ -6,7 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'description', content: 'Page du parcours d\'obstacles Noyaru dédiée au contenu mixte image : une image chargée en HTTP sur une page HTTPS pour déclencher l\'anomalie mixed-image.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours obstacles Noyaru — image mixte HTTP à corriger' },
       { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
