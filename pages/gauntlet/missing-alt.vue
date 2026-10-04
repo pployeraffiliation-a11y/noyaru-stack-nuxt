@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'description', content: 'Page de test du parcours Noyaru dédiée au cas « alt manquant » : une image sans attribut alt est présente pour déclencher uniquement cette anomalie au crawl.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours d\'obstacles Noyaru — texte alternatif manquant' },
-      { property: 'og:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { property: 'og:description', content: 'Page de test du parcours Noyaru dédiée au cas « alt manquant » : une image sans attribut alt est présente pour déclencher uniquement cette anomalie au crawl.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-alt/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours d\'obstacles Noyaru — texte alternatif manquant' },
-      { name: 'twitter:description', content: 'Page du parcours d\'obstacles : elle est correcte partout sauf sur un point precis, afin que la famille visee soit la seule a se declencher au crawl.' },
+      { name: 'twitter:description', content: 'Page de test du parcours Noyaru dédiée au cas « alt manquant » : une image sans attribut alt est présente pour déclencher uniquement cette anomalie au crawl.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
