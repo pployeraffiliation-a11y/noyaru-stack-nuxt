@@ -2,7 +2,7 @@
 // FAMILLE VISEE : double_slash_in_url
 // lien interne avec une double barre.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Gauntlet double-slash : lien avec double barre oblique',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
