@@ -2,18 +2,18 @@
 // FAMILLE VISEE : double_slash_in_url
 // lien interne avec une double barre.
 useHead({
-    title: 'Page de test du parcours d\'obstacles Noyaru',
+    title: 'Gauntlet double slash — parcours d\'obstacles Noyaru',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page double-slash : un lien interne contient une double barre oblique, seule anomalie voulue afin que ce cas precis soit le seul a se declencher au crawl.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { property: 'og:title', content: 'Gauntlet double slash — parcours d\'obstacles Noyaru' },
       { property: 'og:description', content: 'Page double-slash : un lien interne contient une double barre oblique, seule anomalie voulue afin que ce cas precis soit le seul a se declencher au crawl.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/double-slash/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
+      { name: 'twitter:title', content: 'Gauntlet double slash — parcours d\'obstacles Noyaru' },
       { name: 'twitter:description', content: 'Page double-slash : un lien interne contient une double barre oblique, seule anomalie voulue afin que ce cas precis soit le seul a se declencher au crawl.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
