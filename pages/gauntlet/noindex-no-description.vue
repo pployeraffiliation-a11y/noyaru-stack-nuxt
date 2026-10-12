@@ -15,7 +15,8 @@ useHead({
       { property: 'og:description', content: 'Page noindex du parcours d\'obstacles Nuxt : elle ne déclare aucune meta description afin de déclencher uniquement la famille missing_meta_description.' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : noindex no description' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { name: 'twitter:description', content: 'Page noindex du parcours d\'obstacles Nuxt : elle ne déclare aucune meta description afin de déclencher uniquement la famille missing_meta_description.' }
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/noindex-no-description/' }
