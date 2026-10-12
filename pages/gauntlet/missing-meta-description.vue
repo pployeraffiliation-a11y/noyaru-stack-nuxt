@@ -12,7 +12,8 @@ useHead({
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : missing meta description' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { name: 'description', content: 'Page du parcours d\'obstacles dédiée à l\'anomalie missing meta description : elle ne portait aucune description et sert à valider la détection de ce cas précis.' }
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' }
