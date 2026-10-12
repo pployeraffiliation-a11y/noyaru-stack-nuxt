@@ -2,7 +2,7 @@
 // FAMILLE VISEE : title_too_short
 // titre de moins de 15 caracteres.
 useHead({
-    title: 'Test',
+    title: 'Test complet de la page avec titre trop court – Guide 2024',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
