@@ -2,7 +2,7 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Parcours Noyaru : duplicate-b, page jumelle en double titre',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
