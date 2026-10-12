@@ -7,6 +7,7 @@ useHead({
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'robots', content: 'noindex, follow' },
+      { name: 'description', content: 'Page noindex du parcours d\'obstacles Noyaru : aucune description déclarée initialement, seule anomalie voulue pour valider la détection automatisée.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/noindex-no-description/' },
