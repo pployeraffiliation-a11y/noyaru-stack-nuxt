@@ -13,7 +13,8 @@ useHead({
       { property: 'og:description', content: 'Cette page du parcours traite le cas « missing meta description » de la fixture Noyaru.' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { name: 'twitter:description', content: 'Cette page du parcours traite le cas « missing meta description » de la fixture Noyaru.' }
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' }
