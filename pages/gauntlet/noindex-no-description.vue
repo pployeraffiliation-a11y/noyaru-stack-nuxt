@@ -11,6 +11,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/noindex-no-description/' },
+      { property: 'og:description', content: 'Page noindex du parcours d\'obstacles Noyaru : aucune description déclarée à l\'origine, pour déclencher et valider la famille missing meta description.' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Page de test du parcours d\'obstacles Noyaru' },
