@@ -7,6 +7,7 @@ useHead({
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
+      { property: 'og:title', content: 'Parcours Noyaru : cas titre manquant sur la page test' },
       { property: 'og:type', content: 'article' },
       { property: 'og:description', content: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-title/' },
