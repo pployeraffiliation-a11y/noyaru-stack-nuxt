@@ -2,7 +2,7 @@
 const title = 'Blog du site de test Nuxt';
 const description = "Index du blog du site fixture Nuxt, servant a verifier que la correction ne touche ni app.vue ni les autres pages.";
 // THE INJECTED DEFECT: the trailing slash. The host serves /blog and 301s /blog/ to it.
-const canonical = 'https://noyaru-stack-nuxt.netlify.app/blog';
+const canonical = 'https://noyaru-stack-nuxt.netlify.app/blog/';
 
 // Nuxt idiom: head tags are declared with useHead(), never as raw HTML in the template.
 useHead({
