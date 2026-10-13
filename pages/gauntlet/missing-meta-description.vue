@@ -14,7 +14,8 @@ useHead({
       { property: 'og:description', content: 'Page du parcours d\'obstacles dédiée à l\'anomalie missing meta description : aucune description n\'était déclarée afin de déclencher cette famille au crawl.' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : missing meta description' },
-      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
+      { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
+      { name: 'twitter:description', content: 'Page du parcours d\'obstacles dédiée à l\'anomalie missing meta description : aucune description n\'était déclarée afin de déclencher cette famille au crawl.' }
     ],
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' }
