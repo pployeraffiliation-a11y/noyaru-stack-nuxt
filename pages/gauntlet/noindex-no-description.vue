@@ -7,6 +7,7 @@ useHead({
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'robots', content: 'noindex, follow' },
+      { name: 'description', content: 'Page noindex du parcours d\'obstacles Noyaru : elle ne déclarait aucune meta description, provoquant ainsi uniquement l\'anomalie missing_meta_description.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours Noyaru : noindex no description' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/noindex-no-description/' },
