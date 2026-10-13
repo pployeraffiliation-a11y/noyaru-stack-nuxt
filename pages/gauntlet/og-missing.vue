@@ -7,6 +7,11 @@ useHead({
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page « og missing » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
+      { property: 'og:title', content: 'Parcours Noyaru : og missing' },
+      { property: 'og:description', content: 'Page « og missing » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/og-missing/' },
+      { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : og missing' },
       { name: 'twitter:description', content: 'Page « og missing » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
