@@ -6,7 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
+      { name: 'description', content: 'Page jumelle A du parcours d\'obstacles : sans balise canonical declaree, elle forme un doublon avec no-canonical-b que le moteur doit identifier.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages jumelles sans canonical declare' },
       { property: 'og:description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
