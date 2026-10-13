@@ -4,13 +4,16 @@
 useHead({
     title: 'Deux pages jumelles sans canonical declare',
     htmlAttrs: { lang: 'fr' },
+    link: [
+      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }
+    ],
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page jumelle B sans canonical declare : variante du doublon concu pour tester la detection des pages dupliquees sans balise canonical dans le parcours.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages jumelles sans canonical declare' },
       { property: 'og:description', content: 'Page jumelle B sans canonical declare : variante du doublon concu pour tester la detection des pages dupliquees sans balise canonical dans le parcours.' },
-      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-b/' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Deux pages jumelles sans canonical declare' },
