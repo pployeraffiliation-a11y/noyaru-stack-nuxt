@@ -3,6 +3,7 @@
 // aucun titre declare.
 useHead({
     htmlAttrs: { lang: 'fr' },
+    title: 'Parcours Noyaru : cas titre manquant sur la page test',
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page « missing title » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
