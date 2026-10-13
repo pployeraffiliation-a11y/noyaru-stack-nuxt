@@ -2,7 +2,7 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-a.
 useHead({
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : page jumelle B sans canonical declare',
     htmlAttrs: { lang: 'fr' },
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }
@@ -11,12 +11,12 @@ useHead({
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page jumelle B sans canonical declare : variante du doublon concu pour tester la detection des pages dupliquees sans balise canonical dans le parcours.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Deux pages jumelles sans canonical declare' },
+      { property: 'og:title', content: 'Parcours Noyaru : page jumelle B sans canonical declare' },
       { property: 'og:description', content: 'Page jumelle B sans canonical declare : variante du doublon concu pour tester la detection des pages dupliquees sans balise canonical dans le parcours.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Deux pages jumelles sans canonical declare' },
+      { name: 'twitter:title', content: 'Parcours Noyaru : page jumelle B sans canonical declare' },
       { name: 'twitter:description', content: 'Page jumelle B sans canonical declare : variante du doublon concu pour tester la detection des pages dupliquees sans balise canonical dans le parcours.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
