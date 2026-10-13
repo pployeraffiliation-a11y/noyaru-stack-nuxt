@@ -15,6 +15,7 @@ useHead({
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : noindex no description' },
+      { name: 'twitter:description', content: 'Page noindex du parcours d\'obstacles Noyaru : elle ne déclarait aucune meta description, provoquant ainsi uniquement l\'anomalie missing_meta_description.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
     link: [
