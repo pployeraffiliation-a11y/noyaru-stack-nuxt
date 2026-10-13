@@ -3,7 +3,7 @@
 // attribut lang syntaxiquement invalide.
 useHead({
     title: 'Parcours Noyaru : html lang invalid',
-    htmlAttrs: { lang: 'francais' },
+    htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page « html lang invalid » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
