@@ -6,6 +6,7 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
+      { name: 'description', content: 'Page du parcours d\'obstacles dédiée à l\'anomalie missing meta description : aucune description n\'était déclarée afin de déclencher cette famille au crawl.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours Noyaru : missing meta description' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-meta-description/' },
