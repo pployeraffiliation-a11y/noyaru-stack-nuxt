@@ -4,6 +4,9 @@
 useHead({
     title: 'Deux pages jumelles sans canonical declare',
     htmlAttrs: { lang: 'fr' },
+    link: [
+      { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }
+    ],
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
