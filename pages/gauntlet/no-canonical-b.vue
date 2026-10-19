@@ -6,15 +6,15 @@ useHead({
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
-      { name: 'description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
+      { name: 'description', content: 'Page miroir sans canonical : jumelle de no-canonical-a, elle partage le meme contenu pour illustrer le cas des pages dupliquees sans balise canonique.' },
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Deux pages jumelles sans canonical declare' },
-      { property: 'og:description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
+      { property: 'og:description', content: 'Page miroir sans canonical : jumelle de no-canonical-a, elle partage le meme contenu pour illustrer le cas des pages dupliquees sans balise canonique.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-b/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Deux pages jumelles sans canonical declare' },
-      { name: 'twitter:description', content: 'Deux pages jumelles au contenu identique et sans canonical declare : le doublon que la famille des pages dupliquees doit trouver.' },
+      { name: 'twitter:description', content: 'Page miroir sans canonical : jumelle de no-canonical-a, elle partage le meme contenu pour illustrer le cas des pages dupliquees sans balise canonique.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
 });
