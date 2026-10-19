@@ -10,7 +10,7 @@ useHead({
       { property: 'og:type', content: 'article' },
       { property: 'og:title', content: 'Parcours Noyaru : canonical other' },
       { property: 'og:description', content: 'Page « canonical other » du parcours d\'obstacles : correcte partout sauf sur un point precis, pour que seule la famille visee se declenche.' },
-      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/canonical-other/' },
+      { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/missing-h1/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: 'Parcours Noyaru : canonical other' },
