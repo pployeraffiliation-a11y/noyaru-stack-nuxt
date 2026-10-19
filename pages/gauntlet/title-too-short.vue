@@ -2,7 +2,7 @@
 // FAMILLE VISEE : title_too_short
 // titre de moins de 15 caracteres.
 useHead({
-    title: 'Test',
+    title: 'Parcours d\'obstacles Nuxt : cas title too short détaillé ici',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
