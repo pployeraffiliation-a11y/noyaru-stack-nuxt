@@ -2,7 +2,7 @@
 // FAMILLE VISEE : duplicate_pages_without_canonical
 // jumelle de no-canonical-b, aucune des deux ne declare de canonical.
 useHead({
-    title: 'Deux pages jumelles sans canonical declare',
+    title: 'Parcours Noyaru : page jumelle A sans canonical declare',
     htmlAttrs: { lang: 'fr' },
     link: [
       { rel: 'canonical', href: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/no-canonical-a/' }
