@@ -2,18 +2,18 @@
 // FAMILLE VISEE : duplicate_titles + duplicate_meta_descriptions
 // jumelle de duplicate-a.
 useHead({
-    title: 'Deux pages qui portent exactement le meme titre pour le test',
+    title: 'Parcours Noyaru : duplicate-b, page jumelle de duplicate-a',
     htmlAttrs: { lang: 'fr' },
     meta: [
       { name: 'viewport', content: 'width=device-width' },
       { name: 'description', content: 'Page duplicate-b du parcours d\'obstacles Nuxt : jumelle de duplicate-a, elle sert a valider la detection et la correction des meta descriptions dupliquees.' },
       { property: 'og:type', content: 'article' },
-      { property: 'og:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { property: 'og:title', content: 'Parcours Noyaru : duplicate-b, page jumelle de duplicate-a' },
       { property: 'og:description', content: 'Page duplicate-b du parcours d\'obstacles Nuxt : jumelle de duplicate-a, elle sert a valider la detection et la correction des meta descriptions dupliquees.' },
       { property: 'og:url', content: 'https://noyaru-stack-nuxt.netlify.app/gauntlet/duplicate-b/' },
       { property: 'og:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:title', content: 'Deux pages qui portent exactement le meme titre pour le test' },
+      { name: 'twitter:title', content: 'Parcours Noyaru : duplicate-b, page jumelle de duplicate-a' },
       { name: 'twitter:description', content: 'Page duplicate-b du parcours d\'obstacles Nuxt : jumelle de duplicate-a, elle sert a valider la detection et la correction des meta descriptions dupliquees.' },
       { name: 'twitter:image', content: 'https://noyaru-stack-nuxt.netlify.app/og.png' }
     ],
